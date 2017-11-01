@@ -1,3 +1,5 @@
+# WARNING: This information is now obsolete.  Due to differences in the Salesforce API and Teiid integration CXF this is typically a custom exercise.
+
 # salesforce
 ### Using Custom API versions with Salesforce translator in Teiid
 
